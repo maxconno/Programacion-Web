@@ -1,0 +1,19 @@
+body{
+    background-color: #660000;
+}
+#titulo_h1{
+    color:#85929E;
+    font-size: 50px;
+    margin: 10px;
+    width: 100vw;
+}
+
+.categorias{
+    color:#F7F9F9;
+    font-size: 30px;
+    margin: 5px;
+}
+
+.footer{
+    background-color: #424242;
+}
